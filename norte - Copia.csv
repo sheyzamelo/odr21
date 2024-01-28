@@ -1,0 +1,455 @@
+Código IBGE,UF,MUNICÍPIO,MICRORREGIÃO,"RENDA PER CAPITA 
+CORRIGIDA E AJUSTADA","TAXA DE CRESCIMENTO 
+GEOMETRICO DO PIB  
+PER CAPITA TRIENAL",TIPOLOGIA SUB REGIONAL,"TIPOLOGIA SUB REGIONAL DE ACORDO 
+COM O DECRETO 6.047, de 22/02/2007"
+1200351,AC,Marechal Thaumaturgo,Cruzeiro do Sul,"184,15","1,69",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1200328,AC,Jordão,Tarauacá,"208,46","1,26",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1200427,AC,Rodrigues Alves,Cruzeiro do Sul,"234,86","1,72",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1200435,AC,Santa Rosa do Purus,Sena Madureira,"236,03","0,04",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1200393,AC,Porto Walter,Cruzeiro do Sul,"239,09","0,84",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1200609,AC,Tarauacá,Tarauacá,"294,52","2,42",Média Renda e Médio Dinamismo,Estagnadas
+1200302,AC,Feijó,Tarauacá,"303,77","2,93",Média Renda e Médio Dinamismo,Estagnadas
+1200054,AC,Assis Brasil,Brasiléia,"341,12","1,27",Média Renda e Baixo Dinamismo,Estagnadas
+1200336,AC,Mâncio Lima,Cruzeiro do Sul,"346,01","4,03",Média Renda e Alto Dinamismo,Dinâmicas
+1200013,AC,Acrelândia,Rio Branco,"355,68","1,96",Média Renda e Médio Dinamismo,Estagnadas
+1200344,AC,Manoel Urbano,Sena Madureira,"360,29","3,09",Média Renda e Médio Dinamismo,Estagnadas
+1200807,AC,Porto Acre,Rio Branco,"374,35","2,74",Média Renda e Médio Dinamismo,Estagnadas
+1200500,AC,Sena Madureira,Sena Madureira,"375,63","1,22",Média Renda e Baixo Dinamismo,Estagnadas
+1200385,AC,Plácido de Castro,Rio Branco,"376,05","3,33",Média Renda e Médio Dinamismo,Estagnadas
+1200179,AC,Capixaba,Rio Branco,"393,63","1,06",Média Renda e Baixo Dinamismo,Estagnadas
+1200138,AC,Bujari,Rio Branco,"399,22","2,23",Média Renda e Médio Dinamismo,Estagnadas
+1200104,AC,Brasiléia,Brasiléia,"440,35","2,74",Média Renda e Médio Dinamismo,Estagnadas
+1200708,AC,Xapuri,Brasiléia,"447,57","1,35",Média Renda e Baixo Dinamismo,Estagnadas
+1200203,AC,Cruzeiro do Sul,Cruzeiro do Sul,"526,98","3,61",Média Renda e Médio Dinamismo,Estagnadas
+1200450,AC,Senador Guiomard,Rio Branco,"532,84","4,8",Média Renda e Alto Dinamismo,Dinâmicas
+1200252,AC,Epitaciolândia,Brasiléia,"547,79","2,71",Média Renda e Médio Dinamismo,Estagnadas
+1200401,AC,Rio Branco,Rio Branco,"871,95","2,08",Alta Renda e Médio Dinamismo,Alta Renda
+1303700,AM,Santo Antônio do Içá,Alto Solimões,"129,7","5,15",Baixa Renda e Alto Dinamismo,Dinâmicas
+1303601,AM,Santa Isabel do Rio Negro,Rio Negro,"149,68","1,4",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1302801,AM,Maraã,Japurá,"153,88","2,78",Baixa Renda e Médio Dinamismo,Baixa Renda
+1300508,AM,Barreirinha,Parintins,"157,37","4,54",Baixa Renda e Alto Dinamismo,Dinâmicas
+1303908,AM,São Paulo de Olivença,Alto Solimões,"159,49","2,62",Baixa Renda e Médio Dinamismo,Baixa Renda
+1301803,AM,Ipixuna,Juruá,"164,01","1,54",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1300201,AM,Atalaia do Norte,Alto Solimões,"168,97","3,25",Baixa Renda e Médio Dinamismo,Baixa Renda
+1300680,AM,Boa Vista do Ramos,Parintins,"186,31","4,12",Baixa Renda e Alto Dinamismo,Dinâmicas
+1300029,AM,Alvarães,Tefé,"189,62","1,87",Baixa Renda e Médio Dinamismo,Baixa Renda
+1300060,AM,Amaturá,Alto Solimões,"189,64","4,19",Baixa Renda e Alto Dinamismo,Dinâmicas
+1304237,AM,Tonantins,Alto Solimões,"200,74","5,42",Baixa Renda e Alto Dinamismo,Dinâmicas
+1301654,AM,Guajará,Juruá,"202,75","3,41",Baixa Renda e Médio Dinamismo,Baixa Renda
+1300631,AM,Beruri,Coari,"205,25","2,79",Baixa Renda e Médio Dinamismo,Baixa Renda
+1304104,AM,Tapauá,Purus,"205,86","7,57",Baixa Renda e Alto Dinamismo,Dinâmicas
+1303007,AM,Nhamundá,Parintins,"207,08","3,64",Baixa Renda e Médio Dinamismo,Baixa Renda
+1301100,AM,Careiro,Manaus,"209,14","-0,05",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1301605,AM,Fonte Boa,Alto Solimões,"212,68","4,02",Baixa Renda e Alto Dinamismo,Dinâmicas
+1301506,AM,Envira,Juruá,"217,54","6,48",Baixa Renda e Alto Dinamismo,Dinâmicas
+1300904,AM,Canutama,Purus,"219,09","3,05",Baixa Renda e Médio Dinamismo,Baixa Renda
+1301159,AM,Careiro da Várzea,Manaus,"219,88","-5,75",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1300607,AM,Benjamin Constant,Alto Solimões,"224,04","1,07",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1302306,AM,Jutaí,Alto Solimões,"227,5","6,74",Baixa Renda e Alto Dinamismo,Dinâmicas
+1301951,AM,Itamarati,Juruá,"228,12","5,47",Baixa Renda e Alto Dinamismo,Dinâmicas
+1303502,AM,Pauini,Boca do Acre,"231,58","4,44",Baixa Renda e Alto Dinamismo,Dinâmicas
+1303304,AM,Novo Aripuanã,Madeira,"233,15","2,63",Baixa Renda e Médio Dinamismo,Baixa Renda
+1300805,AM,Borba,Madeira,"233,3","2,31",Baixa Renda e Médio Dinamismo,Baixa Renda
+1301001,AM,Carauari,Juruá,"235,95","1,44",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1304260,AM,Uarini,Tefé,"236,78","5,74",Baixa Renda e Alto Dinamismo,Dinâmicas
+1300086,AM,Anamã,Coari,"240,72","1,25",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1302207,AM,Juruá,Juruá,"241,33","3,63",Baixa Renda e Médio Dinamismo,Baixa Renda
+1304401,AM,Urucurituba,Itacoatiara,"241,5","-0,23",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1302405,AM,Lábrea,Purus,"241,57","5,96",Baixa Renda e Alto Dinamismo,Dinâmicas
+1300300,AM,Autazes,Manaus,"242,43","-1,38",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1300102,AM,Anori,Coari,"244,03","5,19",Baixa Renda e Alto Dinamismo,Dinâmicas
+1303106,AM,Nova Olinda do Norte,Itacoatiara,"246,29",3,Baixa Renda e Médio Dinamismo,Baixa Renda
+1300839,AM,Caapiranga,Coari,"249,92","2,76",Baixa Renda e Médio Dinamismo,Baixa Renda
+1300409,AM,Barcelos,Rio Negro,"251,83","4,53",Baixa Renda e Alto Dinamismo,Dinâmicas
+1304005,AM,Silves,Itacoatiara,"253,15","2,96",Baixa Renda e Médio Dinamismo,Baixa Renda
+1301308,AM,Codajás,Coari,"254,33","11,86",Baixa Renda e Alto Dinamismo,Dinâmicas
+1301407,AM,Eirunepé,Juruá,"256,68","7,53",Baixa Renda e Alto Dinamismo,Dinâmicas
+1302900,AM,Maués,Parintins,"259,27","3,79",Baixa Renda e Médio Dinamismo,Baixa Renda
+1303205,AM,Novo Airão,Rio Negro,"261,54","1,21",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1304302,AM,Urucará,Parintins,"262,13","10,71",Baixa Renda e Alto Dinamismo,Dinâmicas
+1302108,AM,Japurá,Japurá,"263,84","8,54",Baixa Renda e Alto Dinamismo,Dinâmicas
+1302553,AM,Manaquiri,Manaus,"269,73","2,54",Baixa Renda e Médio Dinamismo,Baixa Renda
+1303957,AM,São Sebastião do Uatumã,Parintins,"278,9","4,69",Baixa Renda e Alto Dinamismo,Dinâmicas
+1300706,AM,Boca do Acre,Boca do Acre,"306,1","2,41",Média Renda e Médio Dinamismo,Estagnadas
+1302702,AM,Manicoré,Madeira,"313,32","4,3",Média Renda e Alto Dinamismo,Dinâmicas
+1303403,AM,Parintins,Parintins,"332,26","4,11",Média Renda e Alto Dinamismo,Dinâmicas
+1303569,AM,Rio Preto da Eva,Rio Preto da Eva,"334,56","3,88",Média Renda e Médio Dinamismo,Estagnadas
+1302009,AM,Itapiranga,Itacoatiara,"341,67","4,65",Média Renda e Alto Dinamismo,Dinâmicas
+1304062,AM,Tabatinga,Alto Solimões,"359,14","2,39",Média Renda e Médio Dinamismo,Estagnadas
+1302504,AM,Manacapuru,Manaus,"363,58","2,42",Média Renda e Médio Dinamismo,Estagnadas
+1301209,AM,Coari,Coari,"368,48","5,03",Média Renda e Alto Dinamismo,Dinâmicas
+1301852,AM,Iranduba,Manaus,"370,63","4,38",Média Renda e Alto Dinamismo,Dinâmicas
+1303809,AM,São Gabriel da Cachoeira,Rio Negro,"377,3","1,92",Média Renda e Médio Dinamismo,Estagnadas
+1301902,AM,Itacoatiara,Itacoatiara,"396,61",5,Média Renda e Alto Dinamismo,Dinâmicas
+1300144,AM,Apuí,Madeira,"403,95","3,39",Média Renda e Médio Dinamismo,Estagnadas
+1301704,AM,Humaitá,Madeira,"405,55","3,48",Média Renda e Médio Dinamismo,Estagnadas
+1303536,AM,Presidente Figueiredo,Rio Preto da Eva,"420,81","3,91",Média Renda e Alto Dinamismo,Dinâmicas
+1304203,AM,Tefé,Tefé,"447,24","4,68",Média Renda e Alto Dinamismo,Dinâmicas
+1302603,AM,Manaus,Manaus,"838,7","0,68",Alta Renda e Baixo Dinamismo,Alta Renda
+1600253,AP,Itaubal,Macapá,"236,9","1,13",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1600550,AP,Pracuúba,Amapá,"254,18","2,78",Baixa Renda e Médio Dinamismo,Baixa Renda
+1600709,AP,Tartarugalzinho,Amapá,"277,94","2,76",Baixa Renda e Médio Dinamismo,Baixa Renda
+1600212,AP,Cutias,Macapá,"319,27","2,74",Média Renda e Médio Dinamismo,Estagnadas
+1600808,AP,Vitória do Jari,Mazagão,"343,69","1,49",Média Renda e Baixo Dinamismo,Estagnadas
+1600402,AP,Mazagão,Mazagão,"392,81","0,81",Média Renda e Baixo Dinamismo,Estagnadas
+1600535,AP,Porto Grande,Macapá,"396,19","3,96",Média Renda e Alto Dinamismo,Dinâmicas
+1600154,AP,Pedra Branca do Amapari,Macapá,"442,1","3,81",Média Renda e Médio Dinamismo,Estagnadas
+1600105,AP,Amapá,Amapá,"452,01","5,28",Média Renda e Alto Dinamismo,Dinâmicas
+1600238,AP,Ferreira Gomes,Macapá,"462,92","5,07",Média Renda e Alto Dinamismo,Dinâmicas
+1600204,AP,Calçoene,Oiapoque,"464,02","4,08",Média Renda e Alto Dinamismo,Dinâmicas
+1600279,AP,Laranjal do Jari,Mazagão,"480,92","2,18",Média Renda e Médio Dinamismo,Estagnadas
+1600600,AP,Santana,Macapá,"521,26","2,68",Média Renda e Médio Dinamismo,Estagnadas
+1600055,AP,Serra do Navio,Macapá,"538,36","1,35",Média Renda e Baixo Dinamismo,Estagnadas
+1600501,AP,Oiapoque,Oiapoque,"664,72","0,51",Média Renda e Baixo Dinamismo,Estagnadas
+1600303,AP,Macapá,Macapá,"797,47","1,78",Alta Renda e Baixo Dinamismo,Alta Renda
+1501956,PA,Cachoeira do Piriá,Guamá,"133,95","1,97",Baixa Renda e Médio Dinamismo,Baixa Renda
+1504505,PA,Melgaço,Portel,"138,89","5,03",Baixa Renda e Alto Dinamismo,Dinâmicas
+1501006,PA,Aveiro,Itaituba,"152,75","6,39",Baixa Renda e Alto Dinamismo,Dinâmicas
+1500909,PA,Augusto Corrêa,Bragantina,"163,37","4,31",Baixa Renda e Alto Dinamismo,Dinâmicas
+1501105,PA,Bagre,Portel,"163,74","0,14",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1508308,PA,Viseu,Guamá,"164,44","4,51",Baixa Renda e Alto Dinamismo,Dinâmicas
+1504950,PA,Nova Esperança do Piriá,Guamá,"164,7","7,07",Baixa Renda e Alto Dinamismo,Dinâmicas
+1506401,PA,Santa Cruz do Arari,Arari,"165,51","-0,24",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1500305,PA,Afuá,Furos de Breves,"168,44","2,33",Baixa Renda e Médio Dinamismo,Baixa Renda
+1504000,PA,Limoeiro do Ajuru,Cametá,"176,8","5,59",Baixa Renda e Alto Dinamismo,Dinâmicas
+1501907,PA,Bujaru,Castanhal,"178,92","3,63",Baixa Renda e Médio Dinamismo,Baixa Renda
+1503002,PA,Faro,Óbidos,"185,38","7,62",Baixa Renda e Alto Dinamismo,Dinâmicas
+1502855,PA,Curuá,Santarém,"185,86","0,85",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1505205,PA,Oeiras do Pará,Cametá,"186,8","6,92",Baixa Renda e Alto Dinamismo,Dinâmicas
+1500958,PA,Aurora do Pará,Guamá,"189,4","0,33",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1500701,PA,Anajás,Furos de Breves,"191,96","3,62",Baixa Renda e Médio Dinamismo,Baixa Renda
+1503457,PA,Ipixuna do Pará,Guamá,"193,6","-1,83",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1502806,PA,Curralinho,Furos de Breves,"194,01","3,46",Baixa Renda e Médio Dinamismo,Baixa Renda
+1507201,PA,São Domingos do Capim,Guamá,"194,54","6,7",Baixa Renda e Alto Dinamismo,Dinâmicas
+1503101,PA,Gurupá,Portel,"196,25","3,26",Baixa Renda e Médio Dinamismo,Baixa Renda
+1506005,PA,Prainha,Santarém,"198,58","2,22",Baixa Renda e Médio Dinamismo,Baixa Renda
+1505908,PA,Porto de Moz,Almeirim,"198,78","2,07",Baixa Renda e Médio Dinamismo,Baixa Renda
+1505809,PA,Portel,Portel,"200,53","1,7",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1508035,PA,Tracuateua,Bragantina,"201,3","4,67",Baixa Renda e Alto Dinamismo,Dinâmicas
+1503309,PA,Igarapé-Miri,Cametá,"201,68","3,61",Baixa Renda e Médio Dinamismo,Baixa Renda
+1502509,PA,Chaves,Arari,"204,24","1,63",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1500206,PA,Acará,Tomé-Açu,"204,76","2,99",Baixa Renda e Médio Dinamismo,Baixa Renda
+1507706,PA,São Sebastião da Boa Vista,Furos de Breves,"208,36","3,44",Baixa Renda e Médio Dinamismo,Baixa Renda
+1506906,PA,Santarém Novo,Bragantina,"208,52","1,52",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1507466,PA,São João da Ponta,Salgado,"211,79","-1,42",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1504109,PA,Magalhães Barata,Salgado,"214,1","5,86",Baixa Renda e Alto Dinamismo,Dinâmicas
+1501808,PA,Breves,Furos de Breves,"214,83","0,92",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1502004,PA,Cachoeira do Arari,Arari,"215,49","3,07",Baixa Renda e Médio Dinamismo,Baixa Renda
+1500404,PA,Alenquer,Santarém,"221,18","3,81",Baixa Renda e Médio Dinamismo,Baixa Renda
+1507474,PA,São João de Pirabas,Salgado,"221,4","3,74",Baixa Renda e Médio Dinamismo,Baixa Renda
+1507508,PA,São João do Araguaia,Marabá,"222,76","5,8",Baixa Renda e Alto Dinamismo,Dinâmicas
+1506559,PA,Santa Luzia do Pará,Guamá,"223,01","3,9",Baixa Renda e Alto Dinamismo,Dinâmicas
+1501600,PA,Bonito,Bragantina,"223,98","1,36",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1507805,PA,Senador José Porfírio,Altamira,"225,95","3,68",Baixa Renda e Médio Dinamismo,Baixa Renda
+1504307,PA,Maracanã,Salgado,"227,92","4,31",Baixa Renda e Alto Dinamismo,Dinâmicas
+1503507,PA,Irituia,Guamá,"230,35","1,95",Baixa Renda e Médio Dinamismo,Baixa Renda
+1502103,PA,Cametá,Cametá,"233,16","1,8",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1501204,PA,Baião,Cametá,"233,16","-0,07",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1504604,PA,Mocajuba,Cametá,"235,41","4,25",Baixa Renda e Alto Dinamismo,Dinâmicas
+1503077,PA,Garrafão do Norte,Guamá,"236,16","4,97",Baixa Renda e Alto Dinamismo,Dinâmicas
+1504901,PA,Muaná,Arari,"236,4","3,52",Baixa Renda e Médio Dinamismo,Baixa Renda
+1504802,PA,Monte Alegre,Santarém,"237,95","4,74",Baixa Renda e Alto Dinamismo,Dinâmicas
+1505486,PA,Pacajá,Altamira,"238,21","2,77",Baixa Renda e Médio Dinamismo,Baixa Renda
+1505650,PA,Placas,Santarém,"238,25","-0,76",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1502608,PA,Colares,Salgado,"238,29","3,58",Baixa Renda e Médio Dinamismo,Baixa Renda
+1502905,PA,Curuçá,Salgado,"240,32","3,12",Baixa Renda e Médio Dinamismo,Baixa Renda
+1503705,PA,Itupiranga,Tucuruí,"240,62","5,41",Baixa Renda e Alto Dinamismo,Dinâmicas
+1505601,PA,Peixe-Boi,Bragantina,"240,77","4,8",Baixa Renda e Alto Dinamismo,Dinâmicas
+1503903,PA,Juruti,Óbidos,"247,95","10,02",Baixa Renda e Alto Dinamismo,Dinâmicas
+1501451,PA,Belterra,Santarém,"248,14","8,55",Baixa Renda e Alto Dinamismo,Dinâmicas
+1506195,PA,Rurópolis,Itaituba,"249,08","0,1",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1506112,PA,Quatipuru,Bragantina,"251,56","3,46",Baixa Renda e Médio Dinamismo,Baixa Renda
+1503408,PA,Inhangapi,Castanhal,"252,38","3,03",Baixa Renda e Médio Dinamismo,Baixa Renda
+1507102,PA,São Caetano de Odivelas,Salgado,"254,54","2,63",Baixa Renda e Médio Dinamismo,Baixa Renda
+1501782,PA,Breu Branco,Tucuruí,"259,17","-1,66",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1507961,PA,Terra Alta,Salgado,"259,37","3,34",Baixa Renda e Médio Dinamismo,Baixa Renda
+1506583,PA,Santa Maria das Barreiras,Conceição do Araguaia,"260,44","-0,11",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1505106,PA,Óbidos,Óbidos,"261,96","3,2",Baixa Renda e Médio Dinamismo,Baixa Renda
+1505064,PA,Novo Repartimento,Tucuruí,"263,34","2,89",Baixa Renda e Médio Dinamismo,Baixa Renda
+1505700,PA,Ponta de Pedras,Arari,"264,4","2,02",Baixa Renda e Médio Dinamismo,Baixa Renda
+1502756,PA,Concórdia do Pará,Tomé-Açu,"267,77","4,88",Baixa Renda e Alto Dinamismo,Dinâmicas
+1505635,PA,Piçarra,Redenção,"270,19","0,79",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1500347,PA,Água Azul do Norte,Parauapebas,"273,25","5,78",Baixa Renda e Alto Dinamismo,Dinâmicas
+1500859,PA,Anapu,Altamira,"273,52","-1,16",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1505007,PA,Nova Timboteua,Bragantina,"274,86","2,98",Baixa Renda e Médio Dinamismo,Baixa Renda
+1504406,PA,Marapanim,Salgado,"284,54","3,31",Baixa Renda e Médio Dinamismo,Baixa Renda
+1507409,PA,São Francisco do Pará,Bragantina,"286,78","6,95",Baixa Renda e Alto Dinamismo,Dinâmicas
+1505551,PA,Pau D'Arco,Redenção,"287,32","3,82",Baixa Renda e Médio Dinamismo,Baixa Renda
+1506104,PA,Primavera,Bragantina,"287,35","5,48",Baixa Renda e Alto Dinamismo,Dinâmicas
+1502954,PA,Eldorado do Carajás,Parauapebas,"288,76","5,83",Baixa Renda e Alto Dinamismo,Dinâmicas
+1502301,PA,Capitão Poço,Guamá,"290,8","5,21",Baixa Renda e Alto Dinamismo,Dinâmicas
+1503044,PA,Floresta do Araguaia,Conceição do Araguaia,"291,28","6,04",Baixa Renda e Alto Dinamismo,Dinâmicas
+1505494,PA,Palestina do Pará,Marabá,"292,28","3,43",Baixa Renda e Médio Dinamismo,Baixa Renda
+1505403,PA,Ourém,Guamá,"293,37","4,62",Baixa Renda e Alto Dinamismo,Dinâmicas
+1506351,PA,Santa Bárbara do Pará,Belém,"295,06","0,33",Média Renda e Baixo Dinamismo,Estagnadas
+1503754,PA,Jacareacanga,Itaituba,"297,02","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1504703,PA,Moju,Tomé-Açu,"299,6","3,97",Média Renda e Alto Dinamismo,Dinâmicas
+1500107,PA,Abaetetuba,Cametá,"300,98","3,51",Média Renda e Médio Dinamismo,Estagnadas
+1503200,PA,Igarapé-Açu,Bragantina,"301,69","4,62",Média Renda e Alto Dinamismo,Dinâmicas
+1506302,PA,Salvaterra,Arari,"304,33","2,14",Média Renda e Médio Dinamismo,Estagnadas
+1507607,PA,São Miguel do Guamá,Guamá,"308,1","3,36",Média Renda e Médio Dinamismo,Estagnadas
+1507904,PA,Soure,Arari,"308,76","2,05",Média Renda e Médio Dinamismo,Estagnadas
+1507953,PA,Tailândia,Tomé-Açu,"309,03","-1,91",Média Renda e Baixo Dinamismo,Estagnadas
+1503093,PA,Goianésia do Pará,Paragominas,"312,16","1,05",Média Renda e Baixo Dinamismo,Estagnadas
+1501758,PA,Brejo Grande do Araguaia,Marabá,"318,51","1,4",Média Renda e Baixo Dinamismo,Estagnadas
+1501709,PA,Bragança,Bragantina,"320,45","4,7",Média Renda e Alto Dinamismo,Dinâmicas
+1504976,PA,Nova Ipixuna,Tucuruí,"323,67","4,6",Média Renda e Alto Dinamismo,Dinâmicas
+1506708,PA,Santana do Araguaia,Conceição do Araguaia,"325,42","-1,45",Média Renda e Baixo Dinamismo,Estagnadas
+1502772,PA,Curionópolis,Parauapebas,"328,03","7,12",Média Renda e Alto Dinamismo,Dinâmicas
+1508050,PA,Trairão,Itaituba,"331,38","5,21",Média Renda e Alto Dinamismo,Dinâmicas
+1507458,PA,São Geraldo do Araguaia,Redenção,"331,73","4,4",Média Renda e Alto Dinamismo,Dinâmicas
+1508209,PA,Vigia,Salgado,"331,9","2,63",Média Renda e Médio Dinamismo,Estagnadas
+1508357,PA,Vitória do Xingu,Altamira,"331,97","8,43",Média Renda e Alto Dinamismo,Dinâmicas
+1506609,PA,Santa Maria do Pará,Bragantina,"332,79","5,33",Média Renda e Alto Dinamismo,Dinâmicas
+1508001,PA,Tomé-Açu,Tomé-Açu,"335,05","1,46",Média Renda e Baixo Dinamismo,Estagnadas
+1507003,PA,Santo Antônio do Tauá,Castanhal,"340,12","-1,57",Média Renda e Baixo Dinamismo,Estagnadas
+1505304,PA,Oriximiná,Óbidos,"341,32","-2,91",Média Renda e Baixo Dinamismo,Estagnadas
+1501576,PA,Bom Jesus do Tocantins,Paragominas,"346,45","1,21",Média Renda e Baixo Dinamismo,Estagnadas
+1507979,PA,Terra Santa,Óbidos,"347,64","15,92",Média Renda e Alto Dinamismo,Dinâmicas
+1504455,PA,Medicilândia,Altamira,"354,83","0,07",Média Renda e Baixo Dinamismo,Estagnadas
+1506187,PA,Rondon do Pará,Paragominas,"356,17","-0,08",Média Renda e Baixo Dinamismo,Estagnadas
+1502939,PA,Dom Eliseu,Paragominas,"357,5","-1,37",Média Renda e Baixo Dinamismo,Estagnadas
+1508159,PA,Uruará,Altamira,"363,28","3,41",Média Renda e Médio Dinamismo,Estagnadas
+1502202,PA,Capanema,Bragantina,"365,96","3,17",Média Renda e Médio Dinamismo,Estagnadas
+1504059,PA,Mãe do Rio,Guamá,"376,99","3,97",Média Renda e Alto Dinamismo,Dinâmicas
+1504422,PA,Marituba,Belém,"392,41","2,66",Média Renda e Médio Dinamismo,Estagnadas
+1506500,PA,Santa Izabel do Pará,Castanhal,"394,61","-0,42",Média Renda e Baixo Dinamismo,Estagnadas
+1501501,PA,Benevides,Belém,"396,32","5,95",Média Renda e Alto Dinamismo,Dinâmicas
+1500131,PA,Abel Figueiredo,Paragominas,"400,73","-2,16",Média Renda e Baixo Dinamismo,Estagnadas
+1506203,PA,Salinópolis,Salgado,"409,42","4,55",Média Renda e Alto Dinamismo,Dinâmicas
+1503804,PA,Jacundá,Tucuruí,"410,31","1,54",Média Renda e Baixo Dinamismo,Estagnadas
+1507151,PA,São Domingos do Araguaia,Marabá,"411,55","3,29",Média Renda e Médio Dinamismo,Estagnadas
+1502707,PA,Conceição do Araguaia,Conceição do Araguaia,"416,31","2,39",Média Renda e Médio Dinamismo,Estagnadas
+1501725,PA,Brasil Novo,Altamira,"419,66","4,03",Média Renda e Alto Dinamismo,Dinâmicas
+1504752,PA,Mojuí dos Campos,Santarém,"420,19","3,23",Média Renda e Médio Dinamismo,Estagnadas
+1506807,PA,Santarém,Santarém,"420,19","3,42",Média Renda e Médio Dinamismo,Estagnadas
+1501253,PA,Bannach,São Félix do Xingu,"427,63","-1,43",Média Renda e Baixo Dinamismo,Estagnadas
+1502764,PA,Cumaru do Norte,São Félix do Xingu,"428,4","-0,29",Média Renda e Baixo Dinamismo,Estagnadas
+1507300,PA,São Félix do Xingu,São Félix do Xingu,"435,37","-2,37",Média Renda e Baixo Dinamismo,Estagnadas
+1507755,PA,Sapucaia,Redenção,"438,46","-3,66",Média Renda e Baixo Dinamismo,Estagnadas
+1501303,PA,Barcarena,Belém,"449,32","-3,72",Média Renda e Baixo Dinamismo,Estagnadas
+1503606,PA,Itaituba,Itaituba,"452,58","4,62",Média Renda e Alto Dinamismo,Dinâmicas
+1506161,PA,Rio Maria,Redenção,"473,36","3,07",Média Renda e Médio Dinamismo,Estagnadas
+1505437,PA,Ourilândia do Norte,São Félix do Xingu,"479,2","11,03",Média Renda e Alto Dinamismo,Dinâmicas
+1502400,PA,Castanhal,Castanhal,"480,02","4,08",Média Renda e Alto Dinamismo,Dinâmicas
+1500503,PA,Almeirim,Almeirim,"497,32","-3,89",Média Renda e Baixo Dinamismo,Estagnadas
+1500602,PA,Altamira,Altamira,"505,43","11,99",Média Renda e Alto Dinamismo,Dinâmicas
+1505502,PA,Paragominas,Paragominas,"520,95","1,79",Média Renda e Baixo Dinamismo,Estagnadas
+1502152,PA,Canaã dos Carajás,Parauapebas,"531,39","9,73",Média Renda e Alto Dinamismo,Dinâmicas
+1508084,PA,Tucumã,São Félix do Xingu,"531,94","2,86",Média Renda e Médio Dinamismo,Estagnadas
+1508407,PA,Xinguara,Redenção,"534,72","1,43",Média Renda e Baixo Dinamismo,Estagnadas
+1504208,PA,Marabá,Marabá,"542,21","4,56",Média Renda e Alto Dinamismo,Dinâmicas
+1506138,PA,Redenção,Redenção,"543,94","1,91",Média Renda e Médio Dinamismo,Estagnadas
+1508100,PA,Tucuruí,Tucuruí,"548,54","-0,22",Média Renda e Baixo Dinamismo,Estagnadas
+1508126,PA,Ulianópolis,Paragominas,"573,91","-3,05",Média Renda e Baixo Dinamismo,Estagnadas
+1500800,PA,Ananindeua,Belém,"580,11","3,12",Média Renda e Médio Dinamismo,Estagnadas
+1505536,PA,Parauapebas,Parauapebas,"644,67","8,11",Média Renda e Alto Dinamismo,Dinâmicas
+1505031,PA,Novo Progresso,Itaituba,"676,21","6,57",Média Renda e Alto Dinamismo,Dinâmicas
+1501402,PA,Belém,Belém,"877,03","2,63",Alta Renda e Médio Dinamismo,Alta Renda
+1100148,RO,Nova Brasilândia D'Oeste,Alvorada D'Oeste,"521,41","3,72",Média Renda e Médio Dinamismo,Estagnadas
+1100320,RO,São Miguel do Guaporé,Alvorada D'Oeste,"521,41","3,72",Média Renda e Médio Dinamismo,Estagnadas
+1100346,RO,Alvorada D'Oeste,Alvorada D'Oeste,"521,41","3,72",Média Renda e Médio Dinamismo,Estagnadas
+1101500,RO,Seringueiras,Alvorada D'Oeste,"521,41","3,72",Média Renda e Médio Dinamismo,Estagnadas
+1100080,RO,Costa Marques,Guajará-Mirim,"524,19","0,77",Média Renda e Baixo Dinamismo,Estagnadas
+1100106,RO,Guajará-Mirim,Guajará-Mirim,"524,19","0,77",Média Renda e Baixo Dinamismo,Estagnadas
+1101492,RO,São Francisco do Guaporé,Guajará-Mirim,"524,19","0,77",Média Renda e Baixo Dinamismo,Estagnadas
+1100031,RO,Cabixi,Colorado do Oeste,"579,4","3,98",Média Renda e Alto Dinamismo,Dinâmicas
+1100056,RO,Cerejeiras,Colorado do Oeste,"579,4","3,98",Média Renda e Alto Dinamismo,Dinâmicas
+1100064,RO,Colorado do Oeste,Colorado do Oeste,"579,4","3,98",Média Renda e Alto Dinamismo,Dinâmicas
+1100072,RO,Corumbiara,Colorado do Oeste,"579,4","3,98",Média Renda e Alto Dinamismo,Dinâmicas
+1101468,RO,Pimenteiras do Oeste,Colorado do Oeste,"579,4","3,98",Média Renda e Alto Dinamismo,Dinâmicas
+1100023,RO,Ariquemes,Ariquemes,"640,3","2,06",Média Renda e Médio Dinamismo,Estagnadas
+1100130,RO,Machadinho D'Oeste,Ariquemes,"640,3","2,06",Média Renda e Médio Dinamismo,Estagnadas
+1100262,RO,Rio Crespo,Ariquemes,"640,3","2,06",Média Renda e Médio Dinamismo,Estagnadas
+1100403,RO,Alto Paraíso,Ariquemes,"640,3","2,06",Média Renda e Médio Dinamismo,Estagnadas
+1100601,RO,Cacaulândia,Ariquemes,"640,3","2,06",Média Renda e Médio Dinamismo,Estagnadas
+1101401,RO,Monte Negro,Ariquemes,"640,3","2,06",Média Renda e Médio Dinamismo,Estagnadas
+1101757,RO,Vale do Anari,Ariquemes,"640,3","2,06",Média Renda e Médio Dinamismo,Estagnadas
+1100114,RO,Jaru,Ji-Paraná,"676,69","2,78",Média Renda e Médio Dinamismo,Estagnadas
+1100122,RO,Ji-Paraná,Ji-Paraná,"676,69","2,78",Média Renda e Médio Dinamismo,Estagnadas
+1100155,RO,Ouro Preto do Oeste,Ji-Paraná,"676,69","2,78",Média Renda e Médio Dinamismo,Estagnadas
+1100254,RO,Presidente Médici,Ji-Paraná,"676,69","2,78",Média Renda e Médio Dinamismo,Estagnadas
+1101005,RO,Governador Jorge Teixeira,Ji-Paraná,"676,69","2,78",Média Renda e Médio Dinamismo,Estagnadas
+1101302,RO,Mirante da Serra,Ji-Paraná,"676,69","2,78",Média Renda e Médio Dinamismo,Estagnadas
+1101435,RO,Nova União,Ji-Paraná,"676,69","2,78",Média Renda e Médio Dinamismo,Estagnadas
+1101559,RO,Teixeirópolis,Ji-Paraná,"676,69","2,78",Média Renda e Médio Dinamismo,Estagnadas
+1101609,RO,Theobroma,Ji-Paraná,"676,69","2,78",Média Renda e Médio Dinamismo,Estagnadas
+1101708,RO,Urupá,Ji-Paraná,"676,69","2,78",Média Renda e Médio Dinamismo,Estagnadas
+1101807,RO,Vale do Paraíso,Ji-Paraná,"676,69","2,78",Média Renda e Médio Dinamismo,Estagnadas
+1100015,RO,Alta Floresta D'Oeste,Cacoal,"680,87","2,03",Média Renda e Médio Dinamismo,Estagnadas
+1100049,RO,Cacoal,Cacoal,"680,87","2,03",Média Renda e Médio Dinamismo,Estagnadas
+1100098,RO,Espigão D'Oeste,Cacoal,"680,87","2,03",Média Renda e Médio Dinamismo,Estagnadas
+1100288,RO,Rolim de Moura,Cacoal,"680,87","2,03",Média Renda e Médio Dinamismo,Estagnadas
+1100296,RO,Santa Luzia D'Oeste,Cacoal,"680,87","2,03",Média Renda e Médio Dinamismo,Estagnadas
+1100379,RO,Alto Alegre dos Parecis,Cacoal,"680,87","2,03",Média Renda e Médio Dinamismo,Estagnadas
+1100502,RO,Novo Horizonte do Oeste,Cacoal,"680,87","2,03",Média Renda e Médio Dinamismo,Estagnadas
+1100908,RO,Castanheiras,Cacoal,"680,87","2,03",Média Renda e Médio Dinamismo,Estagnadas
+1101203,RO,Ministro Andreazza,Cacoal,"680,87","2,03",Média Renda e Médio Dinamismo,Estagnadas
+1100189,RO,Pimenta Bueno,Vilhena,"786,72","1,92",Alta Renda e Médio Dinamismo,Alta Renda
+1100304,RO,Vilhena,Vilhena,"786,72","1,92",Alta Renda e Médio Dinamismo,Alta Renda
+1100924,RO,Chupinguaia,Vilhena,"786,72","1,92",Alta Renda e Médio Dinamismo,Alta Renda
+1101450,RO,Parecis,Vilhena,"786,72","1,92",Alta Renda e Médio Dinamismo,Alta Renda
+1101476,RO,Primavera de Rondônia,Vilhena,"786,72","1,92",Alta Renda e Médio Dinamismo,Alta Renda
+1101484,RO,São Felipe D'Oeste,Vilhena,"786,72","1,92",Alta Renda e Médio Dinamismo,Alta Renda
+1100205,RO,Porto Velho,Porto Velho,"931,83","3,75",Alta Renda e Médio Dinamismo,Alta Renda
+1100338,RO,Nova Mamoré,Porto Velho,"931,83","3,75",Alta Renda e Médio Dinamismo,Alta Renda
+1100452,RO,Buritis,Porto Velho,"931,83","3,75",Alta Renda e Médio Dinamismo,Alta Renda
+1100700,RO,Campo Novo de Rondônia,Porto Velho,"931,83","3,75",Alta Renda e Médio Dinamismo,Alta Renda
+1100809,RO,Candeias do Jamari,Porto Velho,"931,83","3,75",Alta Renda e Médio Dinamismo,Alta Renda
+1100940,RO,Cujubim,Porto Velho,"931,83","3,75",Alta Renda e Médio Dinamismo,Alta Renda
+1101104,RO,Itapuã do Oeste,Porto Velho,"931,83","3,75",Alta Renda e Médio Dinamismo,Alta Renda
+1400027,RR,Amajari,Boa Vista,"124,86","1,55",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1400704,RR,Uiramutã,Nordeste de Roraima,"126,75","2,28",Baixa Renda e Médio Dinamismo,Baixa Renda
+1400050,RR,Alto Alegre,Boa Vista,"207,19","2,69",Baixa Renda e Médio Dinamismo,Baixa Renda
+1400407,RR,Normandia,Nordeste de Roraima,"209,36","-1,94",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1400282,RR,Iracema,Caracaraí,"268,79","1,37",Baixa Renda e Baixo Dinamismo,Baixa Renda
+1400472,RR,Rorainópolis,Sudeste de Roraima,"292,51","4,84",Baixa Renda e Alto Dinamismo,Dinâmicas
+1400175,RR,Cantá,Nordeste de Roraima,"306,27","1,85",Média Renda e Médio Dinamismo,Estagnadas
+1400159,RR,Bonfim,Nordeste de Roraima,"338,82","3,75",Média Renda e Médio Dinamismo,Estagnadas
+1400233,RR,Caroebe,Sudeste de Roraima,"344,74","3,03",Média Renda e Médio Dinamismo,Estagnadas
+1400209,RR,Caracaraí,Caracaraí,"345,85","1,67",Média Renda e Baixo Dinamismo,Estagnadas
+1400605,RR,São Luiz,Sudeste de Roraima,"354,78","1,89",Média Renda e Médio Dinamismo,Estagnadas
+1400506,RR,São João da Baliza,Sudeste de Roraima,"376,33","2,81",Média Renda e Médio Dinamismo,Estagnadas
+1400456,RR,Pacaraima,Boa Vista,"399,67","-2,37",Média Renda e Baixo Dinamismo,Estagnadas
+1400308,RR,Mucajaí,Caracaraí,"501,88","1,78",Média Renda e Baixo Dinamismo,Estagnadas
+1400100,RR,Boa Vista,Boa Vista,"809,48","1,32",Alta Renda e Baixo Dinamismo,Alta Renda
+1703073,TO,Barra do Ouro,Jalapão,"307,87","5,23",Média Renda e Alto Dinamismo,Dinâmicas
+1703842,TO,Campos Lindos,Jalapão,"307,87","5,23",Média Renda e Alto Dinamismo,Dinâmicas
+1704105,TO,Centenário,Jalapão,"307,87","5,23",Média Renda e Alto Dinamismo,Dinâmicas
+1709005,TO,Goiatins,Jalapão,"307,87","5,23",Média Renda e Alto Dinamismo,Dinâmicas
+1710508,TO,Itacajá,Jalapão,"307,87","5,23",Média Renda e Alto Dinamismo,Dinâmicas
+1710904,TO,Itapiratins,Jalapão,"307,87","5,23",Média Renda e Alto Dinamismo,Dinâmicas
+1711951,TO,Lagoa do Tocantins,Jalapão,"307,87","5,23",Média Renda e Alto Dinamismo,Dinâmicas
+1712405,TO,Lizarda,Jalapão,"307,87","5,23",Média Renda e Alto Dinamismo,Dinâmicas
+1712702,TO,Mateiros,Jalapão,"307,87","5,23",Média Renda e Alto Dinamismo,Dinâmicas
+1715101,TO,Novo Acordo,Jalapão,"307,87","5,23",Média Renda e Alto Dinamismo,Dinâmicas
+1717909,TO,Ponte Alta do Tocantins,Jalapão,"307,87","5,23",Média Renda e Alto Dinamismo,Dinâmicas
+1718501,TO,Recursolândia,Jalapão,"307,87","5,23",Média Renda e Alto Dinamismo,Dinâmicas
+1718758,TO,Rio Sono,Jalapão,"307,87","5,23",Média Renda e Alto Dinamismo,Dinâmicas
+1719004,TO,Santa Tereza do Tocantins,Jalapão,"307,87","5,23",Média Renda e Alto Dinamismo,Dinâmicas
+1720150,TO,São Félix do Tocantins,Jalapão,"307,87","5,23",Média Renda e Alto Dinamismo,Dinâmicas
+1700301,TO,Aguiarnópolis,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1701002,TO,Ananás,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1701051,TO,Angico,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1702208,TO,Araguatins,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1702554,TO,Augustinópolis,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1702901,TO,Axixá do Tocantins,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1703800,TO,Buriti do Tocantins,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1703826,TO,Cachoeirinha,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1703891,TO,Carrasco Bonito,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1706506,TO,Darcinópolis,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1707405,TO,Esperantina,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1710706,TO,Itaguatins,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1712454,TO,Luzinópolis,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1712801,TO,Maurilândia do Tocantins,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1713809,TO,Palmeiras do Tocantins,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1714302,TO,Nazaré,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1718303,TO,Praia Norte,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1718550,TO,Riachinho,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1718808,TO,Sampaio,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1720002,TO,Santa Terezinha do Tocantins,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1720101,TO,São Bento do Tocantins,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1720200,TO,São Miguel do Tocantins,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1720309,TO,São Sebastião do Tocantins,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1720804,TO,Sítio Novo do Tocantins,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1721208,TO,Tocantinópolis,Bico do Papagaio,"338,88","4,18",Média Renda e Alto Dinamismo,Dinâmicas
+1700400,TO,Almas,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1702406,TO,Arraias,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1702703,TO,Aurora do Tocantins,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1705102,TO,Chapada da Natividade,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1705557,TO,Combinado,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1705607,TO,Conceição do Tocantins,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1707009,TO,Dianópolis,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1712157,TO,Lavandeira,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1714203,TO,Natividade,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1715150,TO,Novo Alegre,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1715259,TO,Novo Jardim,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1716208,TO,Paranã,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1717008,TO,Pindorama do Tocantins,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1717800,TO,Ponte Alta do Bom Jesus,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1718006,TO,Porto Alegre do Tocantins,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1718659,TO,Rio da Conceição,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1718907,TO,Santa Rosa do Tocantins,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1720499,TO,São Valério,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1720903,TO,Taguatinga,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1720937,TO,Taipas do Tocantins,Dianópolis,"428,11","5,78",Média Renda e Alto Dinamismo,Dinâmicas
+1700251,TO,Abreulândia,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1701903,TO,Araguacema,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1703107,TO,Barrolândia,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1703206,TO,Bernardo Sayão,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1703602,TO,Brasilândia do Tocantins,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1703909,TO,Caseara,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1706001,TO,Couto Magalhães,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1707108,TO,Divinópolis do Tocantins,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1707207,TO,Dois Irmãos do Tocantins,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1708254,TO,Fortaleza do Tabocão,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1708304,TO,Goianorte,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1709302,TO,Guaraí,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1711100,TO,Itaporã do Tocantins,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1711803,TO,Juarina,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1712504,TO,Marianópolis do Tocantins,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1713205,TO,Miracema do Tocantins,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1713304,TO,Miranorte,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1713700,TO,Monte Santo do Tocantins,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1716653,TO,Pequizeiro,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1716703,TO,Colméia,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1718402,TO,Presidente Kennedy,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1718709,TO,Rio dos Bois,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1721257,TO,Tupirama,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1721307,TO,Tupiratins,Miracema do Tocantins,"492,95","2,53",Média Renda e Médio Dinamismo,Estagnadas
+1701309,TO,Aragominas,Araguaína,"638,89","3,25",Média Renda e Médio Dinamismo,Estagnadas
+1702109,TO,Araguaína,Araguaína,"638,89","3,25",Média Renda e Médio Dinamismo,Estagnadas
+1702158,TO,Araguanã,Araguaína,"638,89","3,25",Média Renda e Médio Dinamismo,Estagnadas
+1702307,TO,Arapoema,Araguaína,"638,89","3,25",Média Renda e Médio Dinamismo,Estagnadas
+1703008,TO,Babaçulândia,Araguaína,"638,89","3,25",Média Renda e Médio Dinamismo,Estagnadas
+1703057,TO,Bandeirantes do Tocantins,Araguaína,"638,89","3,25",Média Renda e Médio Dinamismo,Estagnadas
+1703883,TO,Carmolândia,Araguaína,"638,89","3,25",Média Renda e Médio Dinamismo,Estagnadas
+1705508,TO,Colinas do Tocantins,Araguaína,"638,89","3,25",Média Renda e Médio Dinamismo,Estagnadas
+1707702,TO,Filadélfia,Araguaína,"638,89","3,25",Média Renda e Médio Dinamismo,Estagnadas
+1713957,TO,Muricilândia,Araguaína,"638,89","3,25",Média Renda e Médio Dinamismo,Estagnadas
+1714880,TO,Nova Olinda,Araguaína,"638,89","3,25",Média Renda e Médio Dinamismo,Estagnadas
+1715705,TO,Palmeirante,Araguaína,"638,89","3,25",Média Renda e Médio Dinamismo,Estagnadas
+1716307,TO,Pau D'Arco,Araguaína,"638,89","3,25",Média Renda e Médio Dinamismo,Estagnadas
+1717206,TO,Piraquê,Araguaína,"638,89","3,25",Média Renda e Médio Dinamismo,Estagnadas
+1718865,TO,Santa Fé do Araguaia,Araguaína,"638,89","3,25",Média Renda e Médio Dinamismo,Estagnadas
+1722081,TO,Wanderlândia,Araguaína,"638,89","3,25",Média Renda e Médio Dinamismo,Estagnadas
+1722107,TO,Xambioá,Araguaína,"638,89","3,25",Média Renda e Médio Dinamismo,Estagnadas
+1702000,TO,Araguaçu,Rio Formoso,"659,94","2,26",Média Renda e Médio Dinamismo,Estagnadas
+1704600,TO,Chapada de Areia,Rio Formoso,"659,94","2,26",Média Renda e Médio Dinamismo,Estagnadas
+1706100,TO,Cristalândia,Rio Formoso,"659,94","2,26",Média Renda e Médio Dinamismo,Estagnadas
+1707306,TO,Dueré,Rio Formoso,"659,94","2,26",Média Renda e Médio Dinamismo,Estagnadas
+1707553,TO,Fátima,Rio Formoso,"659,94","2,26",Média Renda e Médio Dinamismo,Estagnadas
+1708205,TO,Formoso do Araguaia,Rio Formoso,"659,94","2,26",Média Renda e Médio Dinamismo,Estagnadas
+1711902,TO,Lagoa da Confusão,Rio Formoso,"659,94","2,26",Média Renda e Médio Dinamismo,Estagnadas
+1715002,TO,Nova Rosalândia,Rio Formoso,"659,94","2,26",Média Renda e Médio Dinamismo,Estagnadas
+1715507,TO,Oliveira de Fátima,Rio Formoso,"659,94","2,26",Média Renda e Médio Dinamismo,Estagnadas
+1716109,TO,Paraíso do Tocantins,Rio Formoso,"659,94","2,26",Média Renda e Médio Dinamismo,Estagnadas
+1717503,TO,Pium,Rio Formoso,"659,94","2,26",Média Renda e Médio Dinamismo,Estagnadas
+1718451,TO,Pugmil,Rio Formoso,"659,94","2,26",Média Renda e Médio Dinamismo,Estagnadas
+1718840,TO,Sandolândia,Rio Formoso,"659,94","2,26",Média Renda e Médio Dinamismo,Estagnadas
+1700350,TO,Aliança do Tocantins,Gurupi,"696,86","3,28",Alta Renda e Médio Dinamismo,Alta Renda
+1700707,TO,Alvorada,Gurupi,"696,86","3,28",Alta Renda e Médio Dinamismo,Alta Renda
+1703701,TO,Brejinho de Nazaré,Gurupi,"696,86","3,28",Alta Renda e Médio Dinamismo,Alta Renda
+1703867,TO,Cariri do Tocantins,Gurupi,"696,86","3,28",Alta Renda e Médio Dinamismo,Alta Renda
+1706258,TO,Crixás do Tocantins,Gurupi,"696,86","3,28",Alta Renda e Médio Dinamismo,Alta Renda
+1707652,TO,Figueirópolis,Gurupi,"696,86","3,28",Alta Renda e Médio Dinamismo,Alta Renda
+1709500,TO,Gurupi,Gurupi,"696,86","3,28",Alta Renda e Médio Dinamismo,Alta Renda
+1711506,TO,Jaú do Tocantins,Gurupi,"696,86","3,28",Alta Renda e Médio Dinamismo,Alta Renda
+1715754,TO,Palmeirópolis,Gurupi,"696,86","3,28",Alta Renda e Médio Dinamismo,Alta Renda
+1716604,TO,Peixe,Gurupi,"696,86","3,28",Alta Renda e Médio Dinamismo,Alta Renda
+1718899,TO,Santa Rita do Tocantins,Gurupi,"696,86","3,28",Alta Renda e Médio Dinamismo,Alta Renda
+1720259,TO,São Salvador do Tocantins,Gurupi,"696,86","3,28",Alta Renda e Médio Dinamismo,Alta Renda
+1720853,TO,Sucupira,Gurupi,"696,86","3,28",Alta Renda e Médio Dinamismo,Alta Renda
+1720978,TO,Talismã,Gurupi,"696,86","3,28",Alta Renda e Médio Dinamismo,Alta Renda
+1701101,TO,Aparecida do Rio Negro,Porto Nacional,"1.003,04","3,36",Alta Renda e Médio Dinamismo,Alta Renda
+1703305,TO,Bom Jesus do Tocantins,Porto Nacional,"1.003,04","3,36",Alta Renda e Médio Dinamismo,Alta Renda
+1709807,TO,Ipueiras,Porto Nacional,"1.003,04","3,36",Alta Renda e Médio Dinamismo,Alta Renda
+1712009,TO,Lajeado,Porto Nacional,"1.003,04","3,36",Alta Renda e Médio Dinamismo,Alta Renda
+1713601,TO,Monte do Carmo,Porto Nacional,"1.003,04","3,36",Alta Renda e Médio Dinamismo,Alta Renda
+1716505,TO,Pedro Afonso,Porto Nacional,"1.003,04","3,36",Alta Renda e Médio Dinamismo,Alta Renda
+1718204,TO,Porto Nacional,Porto Nacional,"1.003,04","3,36",Alta Renda e Médio Dinamismo,Alta Renda
+1718881,TO,Santa Maria do Tocantins,Porto Nacional,"1.003,04","3,36",Alta Renda e Médio Dinamismo,Alta Renda
+1720655,TO,Silvanópolis,Porto Nacional,"1.003,04","3,36",Alta Renda e Médio Dinamismo,Alta Renda
+1721000,TO,Palmas,Porto Nacional,"1.003,04","3,36",Alta Renda e Médio Dinamismo,Alta Renda
+1721109,TO,Tocantínia,Porto Nacional,"1.003,04","3,36",Alta Renda e Médio Dinamismo,Alta Renda
