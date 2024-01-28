@@ -1,0 +1,2 @@
+Sistema de acesso público, analítico, moderno e inovador, que reúne diversas informações georreferenciadas, fornecidas por órgãos e institutos de pesquisas do governo federal. Tem como objetivo aprimorar a avaliação, o monitoramento e, consequentemente, a gestão da Política Nacional do Desenvolvimento Regional (PNDR).
+A ideia aqui é criar um painel sobre os dados da região Norte e, caso seja possível, da região Nordeste. 
